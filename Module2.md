@@ -1,2 +1,2 @@
 ## Footprinting & Recon
-- Information gathering.
+- Information gathering and recon.
